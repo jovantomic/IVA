@@ -1,5 +1,5 @@
 # IVA
-**Intelligent Virtual Assistant by VitaHub DOO**
+**Intelligent Virtual Assistant by VitaHub**
 
 *Iva knows better.*
 
